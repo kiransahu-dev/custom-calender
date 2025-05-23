@@ -1,9 +1,9 @@
 ## Procedure to Run the Projects
 
-step1- Clone this Repo in your local sytem.
-step-2- Go inside this CUSTOM-CALENDER folder open with any code editor.
-step-3- run this command -- "npm install" to run all dependecy
-step-4- after installing the dependency "run npm run dev" to run this whole project in your local system.
+1. step1- Clone this Repo in your local sytem.
+2. step-2- Go inside this CUSTOM-CALENDER folder open with any code editor.
+3. step-3- run this command -- "npm install" to run all dependecy
+4. step-4- after installing the dependency "run npm run dev" to run this whole project in your local system.
 
 ### Tech strack Used
 
